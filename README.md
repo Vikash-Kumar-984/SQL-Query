@@ -201,4 +201,4 @@ for row in cursor.fetchall():
 
 ---
 
-> ✅ Feel free to use and extend this README in your GitHub projects!
+> ✅ Feel free to use it to enhance your knowledge and let me know if any help needed!
