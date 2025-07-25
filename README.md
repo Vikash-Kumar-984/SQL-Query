@@ -206,7 +206,7 @@ for row in cursor.fetchall():
 
 ---
 
-> 📄 **Copyright © 2025 Vikash Kumar**  
-> This content is licensed for educational and personal use only. Redistribution without permission is prohibited.
+📄 **Copyright © 2025 Vikash Kumar**  
+> NOTE: This content is licensed for educational and personal use only. Redistribution without permission is prohibited.
 
 
