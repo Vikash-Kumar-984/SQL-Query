@@ -1,4 +1,4 @@
-## 📘 README: Complete SQL Learning & Reference Guide
+## 📘 Complete SQL Learning & Reference Guide
 
 ### 👤 Author: Vikash Kumar
 
